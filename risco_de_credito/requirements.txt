@@ -1,0 +1,9 @@
+# Versao do Python utilizada: 3.13.9
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.7.2
+xgboost==3.3.0
+lightgbm==4.7.0
+matplotlib==3.10.6
+seaborn==0.13.2
+ipython==9.7.0

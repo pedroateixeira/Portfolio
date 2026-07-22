@@ -1,0 +1,3 @@
+# Google Drive temp/sync files
+.tmp.driveupload/
+.tmp.drivedownload/
